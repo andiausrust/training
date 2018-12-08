@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">training</string>
+    <string name="nichtGeschafft">nicht geschafft</string>
+    <string name="geschafft">geschafft</string>
+    <string name="textResult">180 Punkte</string>
+    <string name="textExercise">turn around by 360 degrees</string>
+</resources>
